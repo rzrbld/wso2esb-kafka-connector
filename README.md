@@ -1,8 +1,9 @@
 # wso2 esb kafka connector
 
 Based on original kafka-producer:
-\
-https://github.com/wso2/esb-connectors/commit/1987421ee7e115342817e686afde929276cbaa68 \
+
+https://github.com/wso2/esb-connectors/commit/1987421ee7e115342817e686afde929276cbaa68
+
 https://github.com/wso2/esb-connectors/tree/master/kafka-producer
 
 #### Difference between original and this version:
